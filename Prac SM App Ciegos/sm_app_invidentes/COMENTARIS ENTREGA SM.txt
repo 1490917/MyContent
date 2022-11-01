@@ -1,0 +1,5 @@
+Consideracions:
+- Per executar el codi cal tenir instl·lat flutter i fer ús d'un dispositiu Android, ja sigui en format físic o en emulador.
+- La API de Braille només deixa fer una quantitat molt limitada de requests al dia, es per això que hi ha ocasions en que no es veu text en l'última pantalla del flux.
+- Recentment hem detectat certs problemes de compatibilitat en dispositius mòbils a l'hora d'executar el projecte. Es tracta d'una col·lisió entre llibreries que afecta a sols alguns dispositius.
+
